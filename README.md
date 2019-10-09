@@ -140,6 +140,7 @@ Push your changes using the command `git push`:
 git push origin <add-your-branch-name>
 ```
 replacing `<add-your-branch-name>` with the name of the branch you created earlier.
+If you forgot the name of your branch, it can be viewed with the `git branch` command.
 
 ## Submit your changes for review
 
